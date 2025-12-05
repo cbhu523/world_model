@@ -34,20 +34,23 @@ benchmarks, and implementations.
 
 ## Object-Centric Counterfactual World Models — Papers & Code
 
-| Year | Paper Title | Paper Link | Code Link |
-|------|-------------|------------|-----------|
-| 2023 | Unifying (Machine) Vision via Counterfactual World Modeling (CWM) | https://arxiv.org/abs/2310.01408 | https://github.com/neuroailab/CounterfactualWorldModels |
-| 2024 | Understanding Physical Dynamics with Counterfactual World Modeling (CWM-Physics / CWM-Dynamics) | https://arxiv.org/abs/2312.06721 | https://github.com/neuroailab/cwm_dynamics |
-| 2023 | SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models | https://arxiv.org/abs/2210.05861 | https://github.com/pairlab/SlotFormer |
-| 2023 | SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models | https://arxiv.org/abs/2305.11281 | https://github.com/Wuziyi616/SlotDiffusion |
-| 2020 | G-SWM: Improving Generative Imagination in Object-Centric World Models | https://arxiv.org/abs/2010.02050 | https://github.com/google-research/google-research/tree/master/g-swmm |
-| 2019 | OP3: Object-Oriented Planning and Prediction | https://arxiv.org/abs/1912.08737 | https://github.com/deepmind/deepmind-research/tree/master/op3 |
-| 2021 | Physion: Evaluating Physical Prediction from Vision in Humans and Machines | https://arxiv.org/abs/2106.08261 | Benchmark code: https://github.com/cogtoolslab/physics-benchmarking-neurips2021 <br> Evaluator: https://github.com/neuroailab/physion_evaluator |
-| 2020 | CLEVRER: A Diagnostic Dataset for Video Reasoning | https://arxiv.org/abs/1910.01442 | Official dataset/tools: https://github.com/clevrer/clevrer |
-| 2024 | CA-SA: Conditional Autoregressive Inductive Biases for Object-Centric Temporal Consistency | https://arxiv.org/abs/2410.15728 | https://github.com/Cmeo97/CA-SA |
-| 2025 | Intuitive physics understanding emerges from self-supervised pretraining on natural videos (JEPA-Intuitive-Physics) | https://arxiv.org/abs/2502.11831 | https://github.com/facebookresearch/jepa-intuitive-physics |
-| 2024 | COIL: Counterfactual Object Interaction Learning | (arXiv link 待补) | (code link 待补) |
-| 20xx | CWMDT: Counterfactual World Modeling with Digital Twins | (link 待补) | (code link 待补) |
+## Object-Centric Counterfactual World Models — Papers & Code
+
+| Year | Paper Title (Linked) | Code Link |
+|------|------------------------|-----------|
+| 2023 | [Unifying (Machine) Vision via Counterfactual World Modeling (CWM)](https://arxiv.org/abs/2310.01408) | https://github.com/neuroailab/CounterfactualWorldModels |
+| 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling (CWM-Physics / CWM-Dynamics)](https://arxiv.org/abs/2312.06721) | https://github.com/neuroailab/cwm_dynamics |
+| 2023 | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/abs/2210.05861) | https://github.com/pairlab/SlotFormer |
+| 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | https://github.com/Wuziyi616/SlotDiffusion |
+| 2020 | [G-SWM: Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/abs/2010.02050) | https://github.com/google-research/google-research/tree/master/g-swmm |
+| 2019 | [OP3: Object-Oriented Planning and Prediction](https://arxiv.org/abs/1912.08737) | https://github.com/deepmind/deepmind-research/tree/master/op3 |
+| 2021 | [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://arxiv.org/abs/2106.08261) | Benchmark: https://github.com/cogtoolslab/physics-benchmarking-neurips2021 <br> Evaluator: https://github.com/neuroailab/physion_evaluator |
+| 2020 | [CLEVRER: A Diagnostic Dataset for Video Reasoning](https://arxiv.org/abs/1910.01442) | Dataset/tools: https://github.com/clevrer/clevrer |
+| 2024 | [CA-SA: Conditional Autoregressive Inductive Biases for Object-Centric Temporal Consistency](https://arxiv.org/abs/2410.15728) | https://github.com/Cmeo97/CA-SA |
+| 2025 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos (JEPA-Intuitive-Physics)](https://arxiv.org/abs/2502.11831) | https://github.com/facebookresearch/jepa-intuitive-physics |
+| 2024 | COIL: Counterfactual Object Interaction Learning *(paper link TBD)* | *(code TBD)* |
+| 20xx | CWMDT: Counterfactual World Modeling with Digital Twins *(paper link TBD)* | *(code TBD)* |
+
 
 - [2019] MONet – *Unsupervised Scene Decomposition and Representation*  
 - [2019] IODINE – *Multi-Object Representation Learning with Iterative VI*  
