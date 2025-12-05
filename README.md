@@ -30,10 +30,6 @@ benchmarks, and implementations.
 - [2018] Ha & Schmidhuber – *World Models* (arXiv:1803.10122)  
 - [2019] Hafner et al. – *Dream to Control: Learning Behaviors by Latent Imagination* (Dreamer)
 
-### Object-Centric Representation Learning
-
-## Object-Centric Counterfactual World Models — Papers & Code
-
 ## Object-Centric Counterfactual World Models — Papers & Code
 
 | Year | Paper Title | Code |
