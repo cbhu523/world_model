@@ -36,7 +36,7 @@ benchmarks, and implementations.
 |------|------------------------|-----------|
 | 2020 | [G-SWM: Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/pdf/2010.02054) | [Link](https://github.com/zhixuan-lin/G-SWM) |
 | 2020 | [CLEVRER: A Diagnostic Dataset for Video Reasoning](https://arxiv.org/abs/1910.01442) | [Link](https://github.com/chuangg/CLEVRER)|
-| 2021 | [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://arxiv.org/abs/2106.08261) | [Link1](https://github.com/cogtoolslab/physics-benchmarking-neurips2021) [Link2](https://github.com/neuroailab/physion_evaluator) |
+| 2021 | [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://arxiv.org/abs/2106.08261) | [Link](https://github.com/cogtoolslab/physics-benchmarking-neurips2021)|
 | 2023 | [Unifying (Machine) Vision via Counterfactual World Modeling](https://arxiv.org/pdf/2306.01828) | [Link](https://github.com/neuroailab/CounterfactualWorldModels) |
 | 2023 | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/abs/2210.05861) | [Link](https://github.com/pairlab/SlotFormer) |
 | 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | [Link](https://github.com/Wuziyi616/SlotDiffusion) |
