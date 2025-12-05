@@ -30,6 +30,41 @@ benchmarks, and implementations.
 - [2018] Ha & Schmidhuber – *World Models* (arXiv:1803.10122)  
 - [2019] Hafner et al. – *Dream to Control: Learning Behaviors by Latent Imagination* (Dreamer)
 
+## Object-Centric World Models
+### Table 1. Recent Object-Centric World Models (OCWM, ~2019–2025)
+
+## Object-Centric World Models (OCWM) — Papers & Code
+
+| Year | Paper Title | Code |
+|------|-------------|------|
+| 2019 | [SCALOR: Generative World Models with Scalable Object-Centric Representations](https://arxiv.org/abs/1910.02384) | – |
+| 2019 | [C-SWM: Contrastive Learning of Structured World Models](https://arxiv.org/abs/1911.12247) | https://github.com/tkipf/c-swm |
+| 2020 | [G-SWM: Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/abs/2007.09571) | https://github.com/zhixuan-lin/G-SWM |
+| 2020 | [OP3: Object-Oriented Perception, Prediction, and Planning](https://arxiv.org/abs/2007.05309) | https://github.com/jcoreyes/OP3 |
+| 2020 | [SILOT: Spatially Invariant Learning of Object Tracking](https://arxiv.org/abs/2001.04918) | https://github.com/e2crawfo/silot |
+| 2021 | [SAVi: Conditional Object-Centric Learning from Video](https://arxiv.org/abs/2111.13723) | https://github.com/google-research/slot-attention-video |
+| 2022 | [SAVi++: Towards End-to-End Object-Centric Learning from Real-World Videos](https://arxiv.org/abs/2206.07764) | – |
+| 2022 | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/abs/2210.05861) | https://github.com/pairlab/SlotFormer |
+| 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | https://github.com/Wuziyi616/SlotDiffusion |
+| 2023 | [VideoSAUR: Object-Centric Learning for Real-World Videos](https://arxiv.org/abs/2306.04829) | https://github.com/martius-lab/videosaur |
+| 2024 | [Learning Physical Dynamics for Object-Centric Visual Prediction](https://arxiv.org/abs/2403.10079) | – |
+| 2025 | [Dyn-O: Structured Object-Centric World Models](https://arxiv.org/abs/2503.02161) | https://github.com/wangzizhao/dyn-o |
+| 2025 | [SlotPi: Physics-informed Object-Centric Reasoning](https://arxiv.org/abs/2506.10778) | – |
+| 2025 | [FOCUS: Object-Centric World Models for Robotic Manipulation](https://arxiv.org/abs/2310.19586) | https://github.com/StefanoFerraro/FOCUS |
+
+## Counterfactual World Models (CF-WM)
+
+| Year | Paper Title | Code |
+|------|-------------|------|
+| 2021 | [Counterfactual Generative Networks (CGN)](https://arxiv.org/abs/2101.06046) | https://github.com/autonomousvision/counterfactual_generative_networks |
+| 2023 | [CWM: Unifying (Machine) Vision via Counterfactual World Modeling](https://arxiv.org/abs/2306.01828) | https://github.com/neuroailab/CounterfactualWorldModels |
+| 2024 | [CWM-Physics: Understanding Physical Dynamics with Counterfactual World Modeling](https://arxiv.org/abs/2312.06721) | https://github.com/rahulvenkk/cwm_dynamics |
+| 2025 | [Opt-CWM: Learning Motion Concepts by Optimizing Counterfactuals](https://arxiv.org/abs/2503.19953) | https://github.com/neuroailab/Opt_CWM |
+| 2025 | [KL-Tracing: Zero-Shot Optical Flow via Counterfactual Tracing](https://arxiv.org/abs/2507.09082) | https://neuroailab.github.io/projects/kl_tracing/ |
+| 2025 | [Point Prompting: Counterfactual Tracking with Video Diffusion Models](https://arxiv.org/abs/2510.11715) | https://point-prompting.github.io |
+| 2025 | [CWMDT: Digital Twin-conditioned Counterfactual Video Diffusion](https://arxiv.org/abs/2511.17481) | – |
+| 2025 | [Intuitive Physics via JEPA Pretraining](https://arxiv.org/abs/2502.11831) | https://github.com/facebookresearch/jepa-intuitive-physics |
+
 ## Object-Centric Counterfactual World Models — Papers & Code
 
 | Year | Paper Title | Code |
