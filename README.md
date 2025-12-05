@@ -36,7 +36,7 @@ benchmarks, and implementations.
 
 ## Object-Centric Counterfactual World Models — Papers & Code
 
-| Year | Paper Title (Linked) | Code Link |
+| Year | Paper Title | Code |
 |------|------------------------|-----------|
 | 2023 | [Unifying (Machine) Vision via Counterfactual World Modeling](https://arxiv.org/pdf/2306.01828) | [Link](https://github.com/neuroailab/CounterfactualWorldModels) |
 | 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling](https://arxiv.org/abs/2312.06721) | [Link](https://github.com/neuroailab/cwm_dynamics) |
