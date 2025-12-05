@@ -33,7 +33,7 @@ benchmarks, and implementations.
 ## Object-Centric World Models
 ### Table 1. Recent Object-Centric World Models (OCWM, ~2019–2025)
 
-## Object-Centric World Models (OCWM) — Papers & Code
+## Object-Centric World Models (OCWM)
 
 | Year | Paper Title | Code |
 |------|-------------|------|
@@ -65,7 +65,7 @@ benchmarks, and implementations.
 | 2025 | [CWMDT: Digital Twin-conditioned Counterfactual Video Diffusion](https://arxiv.org/abs/2511.17481) | – |
 | 2025 | [Intuitive Physics via JEPA Pretraining](https://arxiv.org/abs/2502.11831) | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
 
-## Object-Centric Counterfactual World Models — Papers & Code
+## Object-Centric Counterfactual World Models (OCCWM)
 
 | Year | Paper Title | Code |
 |------|------------------------|-----------|
@@ -77,9 +77,9 @@ benchmarks, and implementations.
 | 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | [Link](https://github.com/Wuziyi616/SlotDiffusion) |
 | 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling](https://arxiv.org/abs/2312.06721) | [Link](https://github.com/neuroailab/cwm_dynamics) |
 | 2024 | [Object-Centric Temporal Consistency via Conditional Autoregressive Inductive Biases](https://arxiv.org/abs/2410.15728) | [Link](https://github.com/Cmeo97/CA-SA) |
-| 2024 | [COIL: UNSUPERVISED OBJECT INTERACTION LEARNING WITH COUNTERFACTUAL DYNAMICS MODELS](https://openreview.net/pdf?id=dYjH8Nv81K) | None |
+| 2024 | [COIL: UNSUPERVISED OBJECT INTERACTION LEARNING WITH COUNTERFACTUAL DYNAMICS MODELS](https://openreview.net/pdf?id=dYjH8Nv81K) | – |
 | 2025 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos](https://arxiv.org/abs/2502.11831) | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
-| 2025 | [CWMDT: Counterfactual World Modeling with Digital Twins-conditioned Video Diffusion](https://arxiv.org/pdf/2511.17481)| None |
+| 2025 | [CWMDT: Counterfactual World Modeling with Digital Twins-conditioned Video Diffusion](https://arxiv.org/pdf/2511.17481)| – |
 
 
 
