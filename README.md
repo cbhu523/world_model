@@ -42,9 +42,9 @@ benchmarks, and implementations.
 | 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | [Link](https://github.com/Wuziyi616/SlotDiffusion) |
 | 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling](https://arxiv.org/abs/2312.06721) | [Link](https://github.com/neuroailab/cwm_dynamics) |
 | 2024 | [Object-Centric Temporal Consistency via Conditional Autoregressive Inductive Biases](https://arxiv.org/abs/2410.15728) | [Link](https://github.com/Cmeo97/CA-SA) |
+| 2024 | [COIL: UNSUPERVISED OBJECT INTERACTION LEARNING WITH COUNTERFACTUAL DYNAMICS MODELS](https://openreview.net/pdf?id=dYjH8Nv81K) | None |
 | 2025 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos](https://arxiv.org/abs/2502.11831) | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
-| 2024 | COIL: UNSUPERVISED OBJECT INTERACTION LEARNING WITH COUNTERFACTUAL DYNAMICS MODELS | *(code TBD)* |
-| 20xx | CWMDT: Counterfactual World Modeling with Digital Twins *(paper link TBD)* | *(code TBD)* |
+| 2025 | [CWMDT: Counterfactual World Modeling with Digital Twins](https://arxiv.org/pdf/2511.17481)| None |
 
 
 
