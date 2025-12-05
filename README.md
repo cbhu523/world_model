@@ -38,8 +38,8 @@ benchmarks, and implementations.
 
 | Year | Paper Title (Linked) | Code Link |
 |------|------------------------|-----------|
-| 2023 | [Unifying (Machine) Vision via Counterfactual World Modeling (CWM)](https://arxiv.org/pdf/2306.01828) | [Link](https://github.com/neuroailab/CounterfactualWorldModels) |
-| 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling (CWM-Physics / CWM-Dynamics)](https://arxiv.org/abs/2312.06721) | [Link](https://github.com/neuroailab/cwm_dynamics) |
+| 2023 | [Unifying (Machine) Vision via Counterfactual World Modeling](https://arxiv.org/pdf/2306.01828) | [Link](https://github.com/neuroailab/CounterfactualWorldModels) |
+| 2024 | [Understanding Physical Dynamics with Counterfactual World Modeling](https://arxiv.org/abs/2312.06721) | [Link](https://github.com/neuroailab/cwm_dynamics) |
 | 2023 | [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://arxiv.org/abs/2210.05861) | [Link](https://github.com/pairlab/SlotFormer) |
 | 2023 | [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) | [Link](https://github.com/Wuziyi616/SlotDiffusion) |
 | 2020 | [G-SWM: Improving Generative Imagination in Object-Centric World Models](https://arxiv.org/pdf/2010.02054) | [Link](https://github.com/zhixuan-lin/G-SWM) |
