@@ -46,7 +46,7 @@ benchmarks, and implementations.
 | 2021 | [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://arxiv.org/abs/2106.08261) | [Link1](https://github.com/cogtoolslab/physics-benchmarking-neurips2021) [Link2](https://github.com/neuroailab/physion_evaluator) |
 | 2020 | [CLEVRER: A Diagnostic Dataset for Video Reasoning](https://arxiv.org/abs/1910.01442) | [Link](https://github.com/chuangg/CLEVRER)|
 | 2024 | [Object-Centric Temporal Consistency via Conditional Autoregressive Inductive Biases](https://arxiv.org/abs/2410.15728) | [Link](https://github.com/Cmeo97/CA-SA) |
-| 2025 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos (JEPA-Intuitive-Physics)](https://arxiv.org/abs/2502.11831) | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
+| 2025 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos](https://arxiv.org/abs/2502.11831) | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
 | 2024 | COIL: UNSUPERVISED OBJECT INTERACTION LEARNING WITH COUNTERFACTUAL DYNAMICS MODELS | *(code TBD)* |
 | 20xx | CWMDT: Counterfactual World Modeling with Digital Twins *(paper link TBD)* | *(code TBD)* |
 
