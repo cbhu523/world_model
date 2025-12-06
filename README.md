@@ -98,3 +98,15 @@ benchmarks, and implementations.
 | 2025 | [CWMDT: Counterfactual World Modeling with Digital Twins-conditioned Video Diffusion](https://arxiv.org/pdf/2511.17481) | Digital Twin synthetic industrial environments (robotics + simulation), no public benchmark name yet | – |
 
 ---
+
+## Typical Intervention Types in OCCWM
+
+| Intervention Type | Target Level | Implementation in OCCWM | Best Suited For | Typical Failure Mode |
+|-------------------|--------------|---------------------------|------------------|-----------------------|
+| **Object presence** | Object set | Add/remove object slot; mask out region; swap instance in simulator or generator | Testing object permanence, existence-based causality, counterfactual removal effects | Model confuses background and object; slot identity collapse; unrealistic collisions or shadows |
+| **Attribute change** | Object attributes (color, shape, mass, friction, velocity) | Edit attribute latents; change simulator parameters for selected instances | Disentanglement of appearance vs. dynamics; visual vs. physical causal factors | Leakage across factors (shape change alters pose); dynamics ignore changed mass; texture-only shortcuts |
+| **Relational change** | Edges/relations between objects (contact, support, occlusion) | Toggle edges in relational module; modify contact constraints; alter relative pose in simulator | Causal chains between objects; stability, support, collision outcomes | Incorrect relation inference; over-smoothing interactions; brittle under unseen configurations |
+| **Causal context change** | Global context (gravity, lighting, domain, rules) | Edit context latents; change environment parameters; domain or task switches | Generalization across “worlds”; robustness to dynamics shifts; deconfounding evaluations | State and context entangled; performance collapses under unseen contexts; spurious correlation with visual style |
+| **Action-level intervention** | Agent actions or policies | Roll out alternative action sequences; do-interventions on policy or control inputs | Planning & control; policy counterfactuals; explaining decisions with alternative trajectories | Model exploits reward structure instead of causal dynamics; compounding rollout errors; off-policy instability |
+
+---
