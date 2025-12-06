@@ -45,6 +45,37 @@ benchmarks, and implementations.
 | RL Unplugged                                                                        | Offline RL (multi-domain) | Dataset shifts as alternative “worlds”                         | Normalized return; offline policy metrics  | Offline evaluation noisy; policy selection & overfitting to validation sets                             |
 
 
+## Unified Table: OCWM, CF-WM, OCCWM (2019–2025, Short Names)
+
+| Year | Paper | OC? | CF? | Category | Benchmarks / Datasets | Code |
+|------|--------|-----|-----|----------|------------------------|------|
+| 2019 | [SCALOR](https://arxiv.org/abs/1910.02384) | ✔️ | ✖️ | OCWM | Synthetic videos | – |
+| 2019 | [C-SWM](https://arxiv.org/abs/1911.12247) | ✔️ | ✖️ | OCWM | Gridworld, Atari, physics | [Link](https://github.com/tkipf/c-swm) |
+| 2020 | [G-SWM](https://arxiv.org/abs/2007.09571) | ✔️ | Weak | OCWM / OCCWM | Synthetic physics | [Link](https://github.com/zhixuan-lin/G-SWM) |
+| 2020 | [OP3](https://arxiv.org/abs/2007.05309) | ✔️ | ✖️ | OCWM | MuJoCo visual control | [Link](https://github.com/jcoreyes/OP3) |
+| 2020 | [SILOT](https://arxiv.org/abs/1911.09033) | ✔️ | ✖️ | OCWM | Synthetic moving objects | [Link](https://github.com/e2crawfo/silot) |
+| 2020 | [CLEVRER](https://arxiv.org/abs/1910.01442) | ✔️ | ✔️ | OCCWM | CLEVRER CF-QA | [Link](https://github.com/chuangg/CLEVRER) |
+| 2021 | [CGN](https://arxiv.org/abs/2101.06046) | ✖️ | ✔️ | CF-WM | C-MNIST, ImageNet-10 | [Link](https://github.com/autonomousvision/counterfactual_generative_networks) |
+| 2021 | [Physion](https://arxiv.org/abs/2106.08261) | ✔️ | ✔️ | OCCWM | Physion | [Link](https://github.com/cogtoolslab/physics-benchmarking-neurips2021) |
+| 2021 | [SAVi](https://openreview.net/forum?id=aD7uesX1GF_) | ✔️ | ✖️ | OCWM | CATER, MOVi | [Link](https://github.com/google-research/slot-attention-video) |
+| 2022 | [SAVi++](https://arxiv.org/abs/2206.07764) | ✔️ | ✖️ | OCWM | MOVi, real videos | – |
+| 2022 | [SlotFormer](https://arxiv.org/abs/2210.05861) | ✔️ | ✔️ | OCCWM | CLEVRER, Physion, PHYRE | [Link](https://github.com/pairlab/SlotFormer) |
+| 2023 | [CWM](https://arxiv.org/abs/2306.01828) | ✖️ | ✔️ | CF-WM | COCO, DAVIS, Kinetics | [Link](https://github.com/neuroailab/CounterfactualWorldModels) |
+| 2023 | [SlotDiffusion](https://arxiv.org/abs/2305.11281) | ✔️ | ✔️ | OCCWM | CLEVRER, Physion | [Link](https://github.com/Wuziyi616/SlotDiffusion) |
+| 2023 | [VideoSAUR](https://arxiv.org/abs/2306.04829) | ✔️ | ✖️ | OCWM | MOVi → YTVIS, DAVIS | [Link](https://github.com/martius-lab/videosaur) |
+| 2024 | [CWM-Physics](https://arxiv.org/abs/2312.06721) | ✔️ | ✔️ | OCCWM | Physion, Physion++ | [Link](https://github.com/rahulvenkk/cwm_dynamics) |
+| 2024 | [CA-SA](https://arxiv.org/abs/2410.15728) | ✔️ | Weak | OCWM | MOVi, synthetic | [Link](https://github.com/Cmeo97/CA-SA) |
+| 2024 | [COIL](https://openreview.net/pdf?id=dYjH8Nv81K) | ✔️ | ✔️ | OCCWM | MuJoCo manipulation | – |
+| 2025 | [JEPA-Physics](https://arxiv.org/abs/2502.11831) | ✖️ | ✔️ | CF-WM / OCCWM | IntPhys, InfLevel | [Link](https://github.com/facebookresearch/jepa-intuitive-physics) |
+| 2025 | [Opt-CWM](https://arxiv.org/abs/2503.19953) | ✖️ | ✔️ | CF-WM | Kinetics motion | [Link](https://github.com/neuroailab/Opt_CWM) |
+| 2025 | [KL-Tracing](https://arxiv.org/abs/2507.09082) | ✖️ | ✔️ | CF-WM | Sintel, KITTI Flow | [Link](https://neuroailab.github.io/projects/kl_tracing/) |
+| 2025 | [PointPrompting](https://arxiv.org/abs/2510.11715) | ✖️ | ✔️ | CF-WM | DAVIS, YT-VOS, TAP-Vid | [Link](https://point-prompting.github.io) |
+| 2025 | [Dyn-O](https://arxiv.org/abs/2503.02161) | ✔️ | ✖️ | OCWM | Sim physics tasks | [Link](https://github.com/wangzizhao/dyn-o) |
+| 2025 | [SlotPi](https://arxiv.org/abs/2506.10778) | ✔️ | Weak | OCWM | Synthetic physics | – |
+| 2025 | [FOCUS](https://arxiv.org/abs/2310.19586) | ✔️ | Weak | OCWM | ManiSkill2, robosuite | [Link](https://github.com/StefanoFerraro/FOCUS) |
+| 2025 | [CWMDT](https://arxiv.org/abs/2511.17481) | ✔️ | ✔️ | OCCWM | Digital Twin envs | – |
+
+
 ## Object-Centric World Models (OCWM, 2019–2025)
 
 | Year | Paper Title | Benchmarks / Datasets | Code |
