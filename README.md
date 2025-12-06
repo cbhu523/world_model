@@ -1,7 +1,3 @@
-# world_model
-object-centric world model
-
-
 # Awesome Object-Centric Counterfactual World Models (OCCWM)
 
 A curated list of papers and resources on **Object-Centric Counterfactual World Models**,
