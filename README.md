@@ -84,3 +84,13 @@ benchmarks, and implementations.
 | **Action-level intervention** | Agent actions or policies | Roll out alternative action sequences; do-interventions on policy or control inputs | Planning & control; policy counterfactuals; explaining decisions with alternative trajectories | Model exploits reward structure instead of causal dynamics; compounding rollout errors; off-policy instability |
 
 ---
+Out-of-Distribution(OOD) Generalization in OCCWM
+
+| OOD Type             | Representative Benchmarks / Settings | Methods Handling It                    | Best Suited For                                                          | Typical Failure Mode                                                                  |
+| -------------------- | ------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| **Object-level OOD** | MOVi, CATER, YTVIS, DAVIS            | SAVi, SlotAttention, VideoSAUR         | Generalizing object concepts to new shapes, textures, or counts          | Slot collapse; identity drift; treating new textures as new objects                   |
+| **Attribute OOD**    | Physion, CausalWorld                 | SlotFormer, SlotDiffusion, CWM-Physics | Testing causal dependence on mass, friction, shape, or motion attributes | Ignoring edited attributes; trajectories revert to in-distribution patterns           |
+| **Relational OOD**   | CLEVRER, IntPhys, Physion++          | SlotFormer, JEPA-Physics               | Evaluating unseen contact, support, and collision configurations         | Incorrect relation inference; brittle under unseen structures; unstable rollouts      |
+| **Context OOD**      | Kubric, Procgen, Meta-World          | CWM family, COIL, Opt-CWM              | Domain shifts in lighting, background, rendering, or physics rules       | Overfitting to visual style; CF predictions visually plausible but causally incorrect |
+| **Action-level OOD** | CausalWorld, ManiSkill2, RLBench     | COIL, FOCUS, CWMDT                     | Alternative actions, goals, or task distributions                        | Reward exploitation; rollout drift; off-policy instability                            |
+| **Temporal OOD**     | CLEVRER, Physion, Atari              | SlotFormer, G-SWM                      | Long-horizon causal consistency beyond training rollout length           | Error accumulation; identity drift; event misordering                                 |
